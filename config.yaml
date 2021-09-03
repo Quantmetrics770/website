@@ -1,4 +1,4 @@
-baseURL: http://examplesite.org/
+baseURL: http://quantmetrics.org/
 title: Quantmetrics
 theme: bigspring-hugo-startup-theme
 paginate: '3'
