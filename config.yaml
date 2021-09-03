@@ -1,4 +1,4 @@
-baseURL: http://quantmetrics.org
+baseURL: http://quantmetrics.netlify.app
 title: Quantmetrics
 theme: bigspring-hugo-startup-theme
 paginate: '3'
