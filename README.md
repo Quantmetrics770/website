@@ -1,2 +1,0 @@
-# website
-Quantmetrics website
