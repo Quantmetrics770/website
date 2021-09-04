@@ -32,12 +32,8 @@ title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
 link = "#"
 
-[[social]]
-title = "twitter"
-icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/quantmetrics-consulting/"
