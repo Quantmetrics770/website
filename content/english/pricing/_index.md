@@ -4,35 +4,34 @@ basic:
     enable: true
     label: More
     link: '#'
-  info: Best For Small Individuals
+  info: Optimize your data workflow
   name: Custom Software Development
   icon: fas fa-chart-area
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Interactive dashboard
+  - Web-based application
+  - Data processing, plotting and reporting
 business:
   button:
     enable: true
     label: More
     link: '#'
-  info: Best For Large Individuals
+  info: Empower your scientific teams
   name: Hands-on Training
   icon: fas fa-chalkboard-teacher
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - State-of-the-art Modeling & Simulation techniques
+  - Study cases
+  - Open-source, free platforms (R, PK-Sim/MoBi)
 call_to_action:
    button:
      enable: true
      label: Contact Us
      link: contact
-   content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-     eget amet, tempus eu at consecttur.
+   content: Our boutique CRO will address any other data-related needs you would have to make your drug development journey a success!
    enable: true
    image: images/cta.svg
-   title: Need a larger plan?
+   title: Any other needs?
 service:
   enable: true
   service_item:
@@ -75,15 +74,14 @@ professional:
     enable: true
     label: More
     link: '#'
-  info: Best For Professionals
+  info: Strategic and Hands-on
   name: Pharmacometrics Consulting
   icon: fas fa-capsules
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Pharmacokinetic
+  - Population PK
+  - Modeling & Simulation
+  - Report preparation
 subtitle: ""
 title: Services
 ---
