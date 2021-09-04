@@ -12,8 +12,7 @@ call_to_action:
     enable: true
     label: Set a call
     link: contact
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content:
   enable: true
   image: images/6997_2.svg
   title: Make your drug development a success

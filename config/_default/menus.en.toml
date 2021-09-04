@@ -22,15 +22,15 @@ weight = 4
 # footer menu left
 [[footer_left]]
 name = "About Us"
-url = "#"
-
-[[footer_left]]
-name = "Quick Start"
-url = "#"
+url = "blog"
 
 [[footer_left]]
 name = "Services"
-url = "services"
+url = "pricing"
+
+[[footer_left]]
+name = "Work with us"
+url = "contact"
 
 
 
