@@ -8,9 +8,9 @@ weight = 1
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "QUantmetrics is providing Modeling & Simulation services to make your drug development journey a success.
+footer_content = "Quantmetrics is providing Modeling & Simulation services to make your drug development journey a success."
 # copyright
-copyright = "[Quantmetrics](http://quantmetrics.org/)"
+copyright = "Developed by [Quantmetrics](http://quantmetrics.org/)"
 
 
 
