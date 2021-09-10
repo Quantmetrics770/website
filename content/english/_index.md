@@ -4,9 +4,9 @@ banner:
     enable: true
     label: Contact Us
     link: contact
-  content: Quantmetrics is providing services to Pharma & Biotech companies to streamline drug development process and maximize chances of success by leveraging advanced Modeling & Simulation approaches.
+  content: Quantmetrics is providing Pharmacokinetic Modeling & Simulation services to Pharma & Biotech companies to streamline preclinical and clinical drug development and increase chances of success.
   image: images/19836_2.svg
-  title: Your partner for Model-Informed <br> Drug Development
+  title: Your partner for <br> PK Modeling & Simulation
 call_to_action:
   button:
     enable: true
@@ -40,9 +40,9 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: ADME/PK<br>Physiologically-based Modeling (PBPK)<br>Formulation optimization (IVIVC)<br>Translational PK/PD Modeling 
+    content: ADME/PK<br>Toxicokinetics<br>Translational PBPK Modeling<br>Formulation optimization (IVIVC) 
     images:
-    - images/service-1.png
+    - images/Preclinical.png
     title: Preclinical Development
   - button:
       enable: true
@@ -50,7 +50,7 @@ service:
       link: '#'
     content: Human PK projection<br>Dose selection<br>Virtual Bioequivalence Studies (BE)<br>Simulation of Clinical Drug-Drug Interaction Studies (DDI)
     images:
-    - images/service-1.png
+    - images/Phase1.png
     title: Phase I
   - button:
       enable: true
@@ -58,7 +58,7 @@ service:
       link: '#'
     content: Dose Optimization<br>Study Design Optimization<br>PD/Biomarker<br>Special Populations (organ impairments)
     images:
-    - images/service-2.png
+    - images/Phase2.png
     title: Phase IIA/IIB
   - button:
       enable: true
@@ -66,7 +66,7 @@ service:
       link: '#'
     content: Exposure-Response Analysis<br>Exposure-Safety Analysis<br>Special Populations (pediatric, elderly, overweight)
     images:
-    - images/service-3.png
+    - images/Phase3.png
     title: Phase III
 ---
 
