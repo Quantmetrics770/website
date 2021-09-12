@@ -7,7 +7,7 @@ title: Contact Us
 
 
 ### Why you should contact us!
-Our team of Pharmacometricians and Data Scientists will assist you in your drug development journey and define your specific needs to make it a success.
+Our team of expert pharmacometricians and data scientists will define your specific needs and will assist you in every step of your drug development journey to make it a success.
 
 * **Phone: +972-54-888-6327** 
 * **Mail: info@quantmetrics.org**

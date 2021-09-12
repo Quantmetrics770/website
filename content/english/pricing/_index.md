@@ -10,17 +10,17 @@ basic:
   services:
   - Interactive dashboard
   - Web-based application
-  - Data processing, plotting and reporting
+  - Data visualization, modeling and reporting
 business:
   button:
     enable: true
     label: More
     link: '#'
-  info: Empower your scientific teams
+  info: Empower your scientific team
   name: Hands-on Training
   icon: fas fa-chalkboard-teacher
   services:
-  - State-of-the-art Modeling & Simulation techniques
+  - State-of-the-art PK Modeling & Simulation techniques
   - Study cases
   - Open-source, free platforms (R, PK-Sim/MoBi)
 call_to_action:

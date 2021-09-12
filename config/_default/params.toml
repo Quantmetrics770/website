@@ -6,7 +6,7 @@ description = "This is meta description"
 author = "Themefisher"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
-contact_form_action = "https://formspree.io/f/xpzkkypg" # contact form works with https://formspree.io
+contact_form_action = "https://formspree.io/f/xpzkkypg" 
 
 # Preloader
 [preloader]
@@ -28,8 +28,8 @@ button = "I Accept"
   
 ############################# social site ########################
 [[social]]
-title = "facebook"
-icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
+title = "googlemaps"
+icon = "fab fa-google" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 

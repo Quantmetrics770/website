@@ -64,7 +64,7 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: Exposure-Response Analysis<br>Exposure-Safety Analysis<br>Special Populations (pediatric, elderly, overweight)
+    content: Exposure-Response Analysis<br>Exposure-Safety Analysis<br>Special Populations (pediatric, elderly, obese)
     images:
     - images/Phase3.png
     title: Phase III
