@@ -35,15 +35,13 @@ url = "contact"
 # footer menu middle
 [[footer_middle]]
 name = "Namir 68, Tel-Aviv, Israel"
-url = "#"
 
 [[footer_middle]]
 name = "Email: info@quantmetrics.org"
-url = "<a href="mailto:info@quantmetrics.org"></a>"
 
 [[footer_middle]]
 name = "Phone: +972-54-888-6327"
-url = "#"
+
 
 
 
