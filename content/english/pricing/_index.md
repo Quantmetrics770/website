@@ -3,9 +3,9 @@ basic:
   button:
     enable: true
     label: More
-    link: '#'
-  info: Optimize your data workflow
-  name: Custom Software Development
+    link: contact
+  info: Optimize your data workflows
+  name: Custom Software Tools
   icon: fas fa-chart-area
   services:
   - Interactive dashboard
@@ -15,22 +15,22 @@ business:
   button:
     enable: true
     label: More
-    link: '#'
+    link: contact
   info: Empower your scientific team
   name: Hands-on Training
   icon: fas fa-chalkboard-teacher
   services:
-  - State-of-the-art PK Modeling & Simulation techniques
-  - Study cases
-  - Open-source, free platforms (R, PK-Sim/MoBi)
+  - State-of-the-art M&S techniques
+  - Study cases from Industry
+  - Open-source modeling platforms (R, PK-Sim/MoBi)
 call_to_action:
    button:
      enable: true
      label: Contact Us
      link: contact
-   content: Our boutique CRO will address any other data-related needs you would have to make your drug development journey a success!
+   content: We will support all your quantitative analysis to inform your internal and regulatory decision-making processes.
    enable: true
-   image: images/cta.svg
+   image: images/4385.jpg
    title: Any other needs?
 service:
   enable: true
@@ -38,44 +38,44 @@ service:
   - button:
       enable: true
       label: Check it out
-      link: '#'
-    content: ADME/PK<br>Physiologically-based Modeling (PBPK)<br>Formulation optimization (IVIVC)<br>Translational PK/PD Modeling 
+      link: images/brochure_nca.pdf
+    content: <span>&#8226;</span> Powerful, cost-effective analysis<br><span>&#8226;</span> Rapid readout of preclinical and early clinical data<br><span>&#8226;</span> Produces standard PK parameters for decision making<br><span>&#8226;</span> Submission-ready report and CDISC compliant PK data 
     images:
-    - images/service-1.png
-    title: Preclinical Development
+    - images/nca_plot.png
+    title: Non-Compartmental<br>Analysis (NCA)
+  - button:
+      enable: true
+      label: Check it out
+      link: "#"
+    content: <span>&#8226;</span> Human PK projection<br><span>&#8226;</span> Dose selection<br><span>&#8226;</span> Virtual Bioequivalence Studies (BE)<br><span>&#8226;</span> Simulation of Clinical Drug-Drug Interaction Studies (DDI)
+    images:
+    - images/Drawing1.png
+    title: Population PK/PD
   - button:
       enable: true
       label: Check it out
       link: '#'
-    content: Human PK projection<br>Dose selection<br>Virtual Bioequivalence Studies (BE)<br>Simulation of Clinical Drug-Drug Interaction Studies (DDI)
+    content: <span>&#8226;</span> Dose Optimization<br><span>&#8226;</span> Study Design Optimization<br><span>&#8226;</span> PD/Biomarker<br><span>&#8226;</span> Special Populations (organ impairments)
     images:
-    - images/service-1.png
-    title: Phase I
+    - images/pbpk.png
+    title: Physiologically-based PK Modeling (PBPK)
   - button:
       enable: true
       label: Check it out
       link: '#'
-    content: Dose Optimization<br>Study Design Optimization<br>PD/Biomarker<br>Special Populations (organ impairments)
+    content: <span>&#8226;</span> Exposure-Response Analysis<br><span>&#8226;</span> Exposure-Safety Analysis<br><span>&#8226;</span> Special Populations (pediatric, elderly, overweight)
     images:
-    - images/service-2.png
-    title: Phase IIA/IIB
-  - button:
-      enable: true
-      label: Check it out
-      link: '#'
-    content: Exposure-Response Analysis<br>Exposure-Safety Analysis<br>Special Populations (pediatric, elderly, overweight)
-    images:
-    - images/service-3.png
-    title: Phase III
+    - images/CTS.png
+    title: Clinical Trial Simulation
 description: This is meta description
 draft: false
 professional:
   button:
     enable: true
     label: More
-    link: '#'
-  info: Strategic and Hands-on
-  name: Pharmacometrics Consulting
+    link: contact
+  info: Strategic & Hands-on
+  name: Pharmacometrics Analyses
   icon: fas fa-capsules
   services:
   - Pharmacokinetic

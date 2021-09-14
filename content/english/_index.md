@@ -21,7 +21,7 @@ feature:
   feature_item:
   - content: We are developing fully customized dashboards and interactive web-based applications for all your data exploration, modeling and reporting needs.
     icon: fas fa-chart-area
-    name: Custom Software Development
+    name: Custom Software Tools
   - content: We are helping pharma & biotech companies bringing better drugs to the patient, faster, by leveraging state-of-the-art Modeling & Simulation techniques (Population PK/PD, PBPK, Clinical Trial Simulation).
     icon: fas fa-capsules
     name: Pharmacometrics Consulting
@@ -40,7 +40,7 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: ADME/PK<br>Toxicokinetics<br>Translational PBPK Modeling<br>Formulation optimization (IVIVC) 
+    content: <span>&#8226;</span> ADME/PK<br><span>&#8226;</span> Toxicokinetics<br><span>&#8226;</span> Translational PBPK Modeling<br><span>&#8226;</span> Formulation optimization (IVIVC) 
     images:
     - images/Preclinical.png
     title: Preclinical Development
@@ -48,7 +48,7 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: Human PK projection<br>Dose selection<br>Virtual Bioequivalence Studies (BE)<br>Simulation of Clinical Drug-Drug Interaction Studies (DDI)
+    content: <span>&#8226;</span> Human PK projection<br><span>&#8226;</span> Dose selection<br><span>&#8226;</span> Virtual Bioequivalence Studies (BE)<br><span>&#8226;</span> Simulation of Drug-Drug Interaction Studies (DDI)
     images:
     - images/Phase1.png
     title: Phase I
@@ -56,7 +56,7 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: Dose Optimization<br>Study Design Optimization<br>PD/Biomarker<br>Special Populations (organ impairments)
+    content: <span>&#8226;</span> Dose Optimization<br><span>&#8226;</span> Study Design Optimization<br><span>&#8226;</span> PD/Biomarker<br><span>&#8226;</span> Special Populations (organ impairments)
     images:
     - images/Phase2.png
     title: Phase IIA/IIB
@@ -64,7 +64,7 @@ service:
       enable: true
       label: Check it out
       link: '#'
-    content: Exposure-Response Analysis<br>Exposure-Safety Analysis<br>Special Populations (pediatric, elderly, obese)
+    content: <span>&#8226;</span> Exposure-Response Analysis<br><span>&#8226;</span> Exposure-Safety Analysis<br><span>&#8226;</span> Special Populations (pediatric, elderly, obese)
     images:
     - images/Phase3.png
     title: Phase III
