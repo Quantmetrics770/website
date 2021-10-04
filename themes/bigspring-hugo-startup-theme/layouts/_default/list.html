@@ -21,9 +21,9 @@
       {{ range $paginator.Pages }}
       <div class="col-lg-4 col-sm-6 mb-5">
         <div class="card border-0">
-          <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img rounded-lg w-55 mb-3"> 
+          <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img rounded-lg w-55 mb-3" style="width:75%"> 
           <div class="card-body p-0">
-            <h3><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title">{{ .Title }}</a></h3>
+            <h3><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title" style = "font-size:21px">{{ .Title }}</a></h3>
             <p class="card-text">{{ .Summary }}</p>
             <a href="{{.Permalink}}" title="{{ i18n "readmore" }} - {{ .Title }}" class="btn btn-primary btn-sm">{{ i18n "readmore" }}</a>
           </div>

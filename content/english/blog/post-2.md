@@ -8,6 +8,4 @@ type: featured
 ---
 
 
-##### Biography
-
 David is
