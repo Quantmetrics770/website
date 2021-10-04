@@ -4,7 +4,7 @@ basic:
     enable: true
     label: More
     link: contact
-  info: Optimize your data workflows
+  info: Optimize your data analysis
   name: Custom Software Tools
   icon: fas fa-chart-area
   services:
@@ -46,24 +46,24 @@ service:
   - button:
       enable: true
       label: Check it out
-      link: "#"
-    content: <span>&#8226;</span> Human PK projection<br><span>&#8226;</span> Dose selection<br><span>&#8226;</span> Virtual Bioequivalence Studies (BE)<br><span>&#8226;</span> Simulation of Clinical Drug-Drug Interaction Studies (DDI)
+      link: images/poppk.pdf
+    content: <span>&#8226;</span> Characterization of PK/PD variability across subject groups<br><span>&#8226;</span> Covariate assessment (body weight, age, sex)<br><span>&#8226;</span> Study design optimization<br><span>&#8226;</span> Simulation-based dose recommendation
     images:
     - images/Drawing1.png
     title: Population PK/PD
   - button:
       enable: true
       label: Check it out
-      link: '#'
-    content: <span>&#8226;</span> Dose Optimization<br><span>&#8226;</span> Study Design Optimization<br><span>&#8226;</span> PD/Biomarker<br><span>&#8226;</span> Special Populations (organ impairments)
+      link: images/pbpk.pdf
+    content: <span>&#8226;</span> Animal-to-Human translational modeling<br><span>&#8226;</span> Special populations (pregnancy, organ impairment)<br><span>&#8226;</span> Evaluation of Drug-Drug Interactions<br><span>&#8226;</span> Formulation optimization (release rate, route of administration)<br><span>&#8226;</span> Virtual Bioequivalence studies
     images:
     - images/pbpk.png
     title: Physiologically-based PK Modeling (PBPK)
   - button:
       enable: true
       label: Check it out
-      link: '#'
-    content: <span>&#8226;</span> Exposure-Response Analysis<br><span>&#8226;</span> Exposure-Safety Analysis<br><span>&#8226;</span> Special Populations (pediatric, elderly, overweight)
+      link: images/cts.pdf
+    content: <span>&#8226;</span> Customized Virtual Populations (age, disease status, ethnicity)<br><span>&#8226;</span> Impact of unknown factors (variability, drop out, response)<br><span>&#8226;</span> Probability of Trial success for different scenarios (sample size, target population, dosing regimens)
     images:
     - images/CTS.png
     title: Clinical Trial Simulation
