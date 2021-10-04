@@ -7,5 +7,4 @@ title: David Bibi, B.Pharm, Ph.D
 type: featured
 ---
 
-
-David holds a B.Pharm and a Ph.D in Pharmaceutical Sciences from the Hebrew University of Jerusalem. He has extensive experience in Translational Pharmacokinetics using compartmental and physiologically-based modeling and is currently a DMPK Project Leader at Teva Pharmaceutical Industries Ltd.
+David holds a B.Pharm and a Ph.D in Pharmaceutical Sciences from the Hebrew University of Jerusalem and has extensive experience in Translational Pharmacokinetics using compartmental and physiologically-based modeling approaches. David is currently a DMPK Project Leader at Teva Pharmaceutical Industries Ltd.
