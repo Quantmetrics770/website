@@ -7,4 +7,4 @@ title: Raphael Bilgraer, Pharm.D, Ph.D
 type: featured
 ---
 
-Raphael has 8+ years of experience in applying advanced Modeling & Simulation techniques to address challenges in Drug Development, both at preclinical and clinical stages. He holds a Pharm.D and a Ph.D in Biomedical Sciences from Paris University and has successively been DMPK Project Leader and Senior Pharmacometrician at Teva Pharmaceutical Industries Ltd.  
+Raphael holds a Pharm.D and a Ph.D in Biomedical Sciences from Paris University and has 8+ years of experience in applying advanced Modeling & Simulation approaches to support internal and regulatory decision making, both at preclinical and clinical stages. He has successively been DMPK Project Leader and Senior Pharmacometrician at Teva Pharmaceutical Industries Ltd.  
