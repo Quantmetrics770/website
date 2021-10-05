@@ -7,8 +7,8 @@ title: Contact Us
 
 
 ### Why you should contact us!
-Our team of expert pharmacometricians and data scientists will define your specific needs and will assist you in every step of your drug development journey to make it a success.
+Our team of expert pharmacokineticists and pharmacometricians will help you define your specific needs and will assist you in every step of your drug development journey to make it a success.
 
 * **Phone: +972-54-888-6327** 
 * **Mail: info@quantmetrics.org**
-* **Address: Namir 68, Tel Aviv - Yafo, Israel**
+* **Address: Tel Aviv - Yafo, Israel**
