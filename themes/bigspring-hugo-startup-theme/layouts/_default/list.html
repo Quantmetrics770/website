@@ -9,7 +9,7 @@
   <div class="container">
     <div class="row">
             {{ range first 1 (where .Data.Pages "Type" "featured") }}
-      <div class="col-12 mb-5 pb-5">
+      <div class="col-12 mb-3 pb-3">
         <div class="row align-items-center">
           <div class="col-md-6 mb-4 mb-md-0">
             </a>
@@ -23,8 +23,8 @@
         <div class="card border-0">
           <img src="{{ .Params.image |relURL }}" alt="{{ .Title }}" class="card-img rounded-lg w-55 mb-3" style="width:75%"> 
           <div class="card-body p-0">
-            <h3><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title" style = "font-size:21px">{{ .Title }}</a></h3>
-            <p class="card-text">{{ .Summary }}</p>
+            <h3><a href="{{ .Permalink }}" title="{{ .Title }}" class="post-title" style = "font-size:22px">{{ .Title }}</a></h3>
+            <p class="card-text" style = "font-size:17px">{{ .Summary }}</p>
             <a href="{{.Permalink}}" title="{{ i18n "readmore" }} - {{ .Title }}" class="btn btn-primary btn-sm">{{ i18n "readmore" }}</a>
           </div>
         </div>
