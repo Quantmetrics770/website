@@ -56,7 +56,7 @@ service:
       enable: false
       label: Check it out
       link: '#'
-    content: <span>&#8226;</span> Efficacious dose projection<br><span>&#8226;</span> Study design optimization<br><span>&#8226;</span> PD/Biomarker<br><span>&#8226;</span> Special Populations (organ impairments)
+    content: <span>&#8226;</span> Efficacious dose projection<br><span>&#8226;</span> Study design optimization<br><span>&#8226;</span> PD/Biomarker<br><span>&#8226;</span> Special Populations (organ impairment)
     images:
     - images/Phase2.png
     title: Phase IIA/IIB
