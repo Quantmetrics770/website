@@ -8,21 +8,21 @@ basic:
   name: Custom Software Tools
   icon: fas fa-chart-area
   services:
-  - Interactive dashboard
-  - Web-based application
-  - Data visualization, modeling and reporting
+  - Fully customized graphical interface
+  - Interactive R-Shiny applications 
+  - Data visualization, simulation and report
 business:
   button:
     enable: true
     label: More
     link: contact
-  info: Empower your scientific team
-  name: Hands-on Training
+  info: Empower your team
+  name: Training
   icon: fas fa-chalkboard-teacher
   services:
   - State-of-the-art M&S techniques
-  - Study cases from Industry
-  - Open-source modeling platforms (R, PK-Sim/MoBi)
+  - Case studies from Industry
+  - Hands-on modeling using open-source platforms (R, PK-Sim/MoBi)
 call_to_action:
    button:
      enable: true
@@ -75,13 +75,12 @@ professional:
     label: More
     link: contact
   info: Strategic & Hands-on
-  name: Pharmacometrics Analyses
+  name: Pharmacometrics Support
   icon: fas fa-capsules
   services:
-  - Pharmacokinetic
-  - Population PK
-  - Modeling & Simulation
-  - Report preparation
+  - Clinical Pharmacology development plan
+  - Model-based analysis 
+  - Results interpretation and report
 subtitle: ""
 title: Services
 ---

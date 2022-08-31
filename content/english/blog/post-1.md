@@ -7,4 +7,4 @@ title: Raphael Bilgraer, Pharm.D, Ph.D
 type: featured
 ---
 
-Raphael has extensive experience in applying advanced Modeling & Simulation techniques to support internal and regulatory decision making, both at preclinical and clinical stages. He held different positions in the pharmaceutical industry as DMPK Project Leader and Pharmacometrician. He holds a Pharm.D and a Ph.D degrees in Biomedical Sciences from Paris University. 
+Dr. Bilgraer is an expert modeler with extensive experience in applying Modeling & Simulation techniques to support internal and regulatory decision making, both at the preclinical and clinical stages of drug development. He spent 10+ years in Big Pharma companies as DMPK Project Leader and later as an Associate Director of Pharmacometrics. He holds a Pharm.D and a Ph.D degrees in Biomedical Sciences from Paris University. 
