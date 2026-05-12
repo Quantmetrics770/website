@@ -1,30 +1,64 @@
 ---
-description: This is meta description
+description: תנאי השימוש של Quantmetrics המסדירים את השימוש באתר ובשירותי הייעוץ שלנו.
 draft: false
 subtitle: ""
-title: Terms of Service
+title: תנאי שימוש
 ---
 
-#### Responsibility of Contributors
+*עדכון אחרון: מאי 2026*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+#### קבלת התנאים
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+בגישה ושימוש באתר Quantmetrics (quantmetrics.org), אתם מסכימים להיות מחויבים לתנאי שימוש אלה. אם אינכם מסכימים לחלק כלשהו מתנאים אלה, אנא הימנעו משימוש באתר.
 
-#### Gathering of Personal Information
+#### שירותים
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Quantmetrics מספקת שירותי ייעוץ בתחום מידול וסימולציה פרמקוקינטיים, פיתוח תוכנה מותאם אישית והדרכות לחברות פרמצבטיות וביוטכנולוגיות. ההיקף, התוצרים, לוח הזמנים והעלויות הספציפיים לכל התקשרות ייעוץ מוגדרים בהסכמי פרויקט פרטניים בין Quantmetrics ללקוח.
 
-#### Protection of  Personal- Information
+#### קניין רוחני
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+כל התוכן באתר זה, כולל טקסט, גרפיקה, לוגואים, תמונות וחומרים להורדה, הוא רכוש Quantmetrics ומוגן על ידי חוקי קניין רוחני רלוונטיים. אין לשכפל, להפיץ או להשתמש בתוכן כלשהו מאתר זה ללא הסכמה מראש בכתב מ-Quantmetrics.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+תוצרי עבודה המסופקים כחלק מהתקשרות ייעוץ מוסדרים על ידי תנאי הסכם הפרויקט הפרטני בין Quantmetrics ללקוח.
 
-#### Privacy Policy Changes
+#### סודיות
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+Quantmetrics מתייחסת לכל נתוני הלקוח ומידע הפרויקט כסודיים לחלוטין. איננו חושפים מידע ספציפי ללקוח לצדדים שלישיים ללא הסכמה מפורשת בכתב. היועצים שלנו מקפידים על נוהלי סודיות מקובלים בתעשייה, והסכמי סודיות (NDA) נחתמים על פי בקשה לפני שיתוף מידע קנייני.
+
+#### הגבלת אחריות
+
+המידע המסופק באתר זה נועד למטרות מידע כלליות בלבד. למרות שאנו שואפים לשמור על תוכן מדויק ועדכני, Quantmetrics אינה מעניקה אחריות או מצגים לגבי השלמות, הדיוק או ההתאמה של המידע הכלול באתר.
+
+Quantmetrics לא תישא באחריות לכל נזק ישיר, עקיף, מקרי או תוצאתי הנובע מהשימוש באתר זה או מהסתמכות על מידע המסופק בו.
+
+#### התקשרויות ייעוץ
+
+כל פרויקטי הייעוץ מוסדרים על ידי הסכמים פרטניים המפרטים:
+
+1. היקף העבודה והתוצרים
+2. לוח זמנים ואבני דרך
+3. עלויות ותנאי תשלום
+4. חובות סודיות
+5. בעלות על תוצרי עבודה
+
+במקרה של סתירה בין תנאי שימוש אלה להסכם פרויקט פרטני, הסכם הפרויקט יגבר.
+
+#### קישורים חיצוניים
+
+האתר שלנו עשוי להכיל קישורים לאתרים חיצוניים. Quantmetrics אינה אחראית לתוכן, נוהלי הפרטיות או הזמינות של אתרי צד שלישי אלה.
+
+#### דין חל
+
+תנאי שימוש אלה כפופים לחוקי מדינת ישראל ומפורשים בהתאם להם. כל מחלוקת הנובעת מתנאים אלה תהיה כפופה לסמכות השיפוט הבלעדית של בתי המשפט בתל אביב, ישראל.
+
+#### שינויים בתנאים
+
+Quantmetrics שומרת לעצמה את הזכות לשנות תנאי שימוש אלה בכל עת. שינויים נכנסים לתוקף עם פרסומם בדף זה. המשך השימוש באתר לאחר פרסום שינויים מהווה קבלה של התנאים המעודכנים.
+
+#### צרו קשר
+
+לשאלות בנוגע לתנאי שימוש אלה, אנא צרו איתנו קשר:
+
+- **דוא"ל:** info@quantmetrics.org
+- **טלפון:** +972-54-888-6327
+- **כתובת:** תל אביב - יפו, ישראל

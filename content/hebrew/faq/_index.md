@@ -1,39 +1,39 @@
 ---
-description: This is meta description
+description: תשובות לשאלות נפוצות על שירותי הייעוץ בפרמקומטריקס, מידול וסימולציה של Quantmetrics.
 draft: false
-subtitle: ""
-title: Frequently Asked Questions
+subtitle: "יש לכם שאלות על שירותי הפרמקומטריקס שלנו? מצאו תשובות למטה או צרו איתנו קשר."
+title: שאלות נפוצות
 ---
 
 
-{{< faq "Will updates also be free?" >}}
-Lorem, [link](https://examplesite.com) _ipsum_ dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "אילו שירותי מידול וסימולציה Quantmetrics מציעה?" >}}
+Quantmetrics מספקת מגוון רחב של שירותי פרמקומטריקס הכוללים ניתוח Non-Compartmental (NCA), מידול Population PK/PD, מידול פרמקוקינטי מבוסס פיזיולוגיה (PBPK) וסימולציית ניסויים קליניים. אנו תומכים בכל שלבי פיתוח התרופה, מאפיון ADME/PK פרה-קליני ועד הגשות רגולטוריות בשלב Phase III. בנוסף, אנו מפתחים כלי תוכנה מותאמים אישית ודשבורדים אינטראקטיביים לחקירת נתונים ודיווח.
 {{</ faq >}}
 
-{{< faq "Discounts for students and Non Profit Organizations?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "באילו תחומים טיפוליים וסוגי מולקולות יש לכם ניסיון?" >}}
+לצוות שלנו ניסיון רב במגוון רחב של תחומים טיפוליים וסוגי מולקולות, כולל מולקולות קטנות וביולוגיות (נוגדנים מונוקלונליים, פפטידים, ADCs). עבדנו על פרויקטים באונקולוגיה, אימונולוגיה, מחלות זיהומיות, מערכת העצבים המרכזית, הפרעות מטבוליות ועוד. המומחיות שלנו מכסה פרופילים פרמקוקינטיים סטנדרטיים ומורכבים כאחד.
 {{</ faq >}}
 
-{{< faq "I need something unique, Can you make it?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "באילו פלטפורמות תוכנה אתם משתמשים?" >}}
+אנו שולטים בכל פלטפורמות התוכנה המוכרות בתעשייה, כולל NONMEM, Monolix, R, PK-Sim/MoBi (Open Systems Pharmacology), Phoenix WinNonlin ו-Simcyp. אנו גם מפתחים אפליקציות R-Shiny מותאמות אישית להדמיית נתונים אינטראקטיבית, סימולציה ודיווח אוטומטי. התוצרים שלנו מתוכננים לעמוד בתקנים רגולטוריים ודרישות תאימות CDISC.
 {{</ faq >}}
 
-{{< faq "Is there any documentation and support?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "כיצד מתנהל פרויקט טיפוסי?" >}}
+כל פרויקט מתחיל בייעוץ ראשוני להבנת הצרכים והמטרות הספציפיים שלכם. לאחר מכן אנו מכינים הצעה מותאמת המפרטת את היקף העבודה, לוח הזמנים והתוצרים. לאחר הסכמה, הצוות שלנו עובד בשיתוף פעולה הדוק עם הצוות שלכם לאורך כל הפרויקט, ומספק עדכונים שוטפים ותוצאות ביניים. התוצרים הסופיים כוללים בדרך כלל דוח מקיף, קבצי מודל ומערכי נתונים בפורמטים מוכנים להגשה.
 {{</ faq >}}
 
-{{< faq "Any refunds?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "באיזה שלב של פיתוח התרופה כדאי לפנות ליועץ פרמקומטריקס?" >}}
+ככל שמוקדם יותר, כך עדיף. באופן אידיאלי, יש לשלב פרמקומטריקס כבר מהשלב הפרה-קליני כדי לתמוך במידול טרנסלציוני ובתחזיות מינון First-in-Human. עם זאת, אנו יכולים להוסיף ערך בכל שלב — מאופטימיזציה של עיצוב מחקרים בשלב I/II ובחירת מינון, ועד תמיכה בניתוחי חשיפה-תגובה בשלב III והגשות רגולטוריות.
 {{</ faq >}}
 
-{{< faq "What is a product key?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "האם Quantmetrics יכולה לתמוך בהגשות רגולטוריות?" >}}
+כן. אנו מכינים ניתוחי Population PK וחשיפה-תגובה מוכנים להגשה העומדים בציפיות ה-FDA, EMA ו-PMDA. הדוחות שלנו עוקבים אחר מסמכי הנחיה רגולטוריים עדכניים וכוללים את כל התיעוד הנדרש להגשות IND/NDA/MAA. אנו יכולים גם לסייע במענה לשאלות רגולטוריות ובהכנת מסמכי תדרוך לפגישות עם רשויות הבריאות.
 {{</ faq >}}
 
-{{< faq "Where do I download the file to?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "האם אתם מציעים הדרכות וסדנאות?" >}}
+בהחלט. אנו מציעים הדרכות וסדנאות מעשיות מותאמות אישית על מתודולוגיות פרמקומטריקס, כולל מידול Population PK/PD, מידול PBPK עם PK-Sim/MoBi וניתוח נתונים עם R. ההדרכות שלנו מיועדות לצוותי פיתוח פרה-קליניים וקליניים ומשלבות יסודות תיאורטיים עם מקרי בוחן מעשיים מהתעשייה הפרמצבטית.
 {{</ faq >}}
 
-{{< faq "Any refunds?" >}}
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus [link](https://examplesite.com) ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum? Cum, reprehenderit. Sapiente atque quam vitae, magnam dolore consequatur temporibus harum odit ab id quo qui aspernatur aliquid officiis sit error asperiores eveniet quibusdam, accusantium enim recusandae quas ea est! Quaerat omnis, placeat vitae laboriosam doloremque recusandae mollitia minima!
+{{< faq "כיצד ניתן להתחיל לעבוד עם Quantmetrics?" >}}
+פשוט פנו אלינו דרך [דף יצירת הקשר](/he/contact) או שלחו לנו דוא"ל לכתובת info@quantmetrics.org. נתאם שיחה ראשונית לדיון בצרכי הפרויקט שלכם ונספק לכם הצעה מותאמת אישית. אין צורך בהתחייבות לייעוץ הראשוני.
 {{</ faq >}}

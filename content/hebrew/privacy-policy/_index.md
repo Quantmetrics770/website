@@ -1,30 +1,66 @@
 ---
-description: This is meta description
+description: מדיניות הפרטיות של Quantmetrics המתארת כיצד אנו אוספים, משתמשים ומגנים על המידע האישי שלכם.
 draft: false
 subtitle: ""
-title: Privacy & Policy
+title: מדיניות פרטיות
 ---
 
-#### Responsibility of Contributors
+*עדכון אחרון: מאי 2026*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+#### מבוא
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+Quantmetrics ("אנחנו", "שלנו" או "אותנו") מחויבת להגנה על פרטיות המבקרים באתר שלנו (quantmetrics.org) ולקוחותינו. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגנים על המידע האישי שלכם בעת ביקור באתר שלנו או התקשרות עם השירותים שלנו.
 
-#### Gathering of Personal Information
+#### מידע שאנו אוספים
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+אנו עשויים לאסוף את סוגי המידע האישי הבאים:
 
-#### Protection of  Personal- Information
+- **הגשות טופס יצירת קשר:** כאשר אתם משתמשים בטופס יצירת הקשר שלנו, אנו אוספים את שמכם, כתובת הדוא"ל שלכם וכל מידע נוסף שתבחרו לספק בהודעתכם. הגשות טפסים מעובדות באמצעות Formspree, שירות צד שלישי לטיפול בטפסים.
+- **נתוני תקשורת:** כאשר אתם יוצרים איתנו קשר באמצעות דוא"ל או טלפון, אנו שומרים רשומות של התכתובת כדי לספק לכם תמיכה שוטפת.
+- **נתוני שימוש באתר:** אנו עשויים לאסוף נתוני שימוש אנונימיים כגון דפים שנצפו, זמן שהייה בדפים וכתובות URL מפנות, לשיפור חוויית האתר.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+#### כיצד אנו משתמשים במידע שלכם
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+אנו משתמשים במידע האישי שאנו אוספים כדי:
 
-#### Privacy Policy Changes
+1. להגיב לפניותיכם ולספק מידע על השירותים שלנו
+2. לתקשר אתכם בנוגע להתקשרויות ייעוץ קיימות או פוטנציאליות
+3. לשפר את תוכן האתר וחוויית המשתמש
+4. לעמוד בחובות חוקיות רלוונטיות
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+אנו **לא** מוכרים, משכירים או משתפים את המידע האישי שלכם עם צדדים שלישיים למטרות שיווק.
+
+#### הגנת מידע
+
+אנו מיישמים אמצעים טכניים וארגוניים מתאימים להגנה על המידע האישי שלכם מפני גישה, שינוי, חשיפה או הרס בלתי מורשים. כל המידע מטופל בהתאם לתקנות הגנת מידע רלוונטיות.
+
+#### שירותי צד שלישי
+
+האתר שלנו עשוי להשתמש בשירותי צד שלישי (כגון Formspree לטפסי יצירת קשר ו-Google Analytics לסטטיסטיקות אתר). לשירותים אלה יש מדיניות פרטיות משלהם המסדירה את השימוש במידע שלכם. אנו ממליצים לעיין במדיניות הפרטיות שלהם.
+
+#### הזכויות שלכם
+
+עומדות לרשותכם הזכויות הבאות:
+
+- לבקש גישה למידע האישי שאנו מחזיקים עליכם
+- לבקש תיקון או מחיקה של המידע האישי שלכם
+- לבטל הסכמה לעיבוד מידע בכל עת
+- לבקש עותק של המידע שלכם בפורמט נייד
+
+למימוש כל אחת מזכויות אלה, אנא צרו איתנו קשר בכתובת info@quantmetrics.org.
+
+#### שמירת מידע
+
+אנו שומרים מידע אישי רק כל עוד הדבר נחוץ למילוי המטרות שלשמן נאסף, או כנדרש בחוק. הגשות טפסי יצירת קשר והתכתבויות בדוא"ל נשמרות למשך תקופת הקשר העסקי ותקופה סבירה לאחר מכן.
+
+#### שינויים במדיניות זו
+
+אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת. כל שינוי יפורסם בדף זה עם תאריך עדכון מעודכן. אנו ממליצים לעיין בדף זה מדי פעם.
+
+#### צרו קשר
+
+אם יש לכם שאלות בנוגע למדיניות פרטיות זו, אנא צרו איתנו קשר:
+
+- **דוא"ל:** info@quantmetrics.org
+- **טלפון:** +972-54-888-6327
+- **כתובת:** תל אביב - יפו, ישראל

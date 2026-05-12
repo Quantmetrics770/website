@@ -1,14 +1,14 @@
 ---
-description: This is meta description
+description: צרו קשר עם Quantmetrics לשירותי ייעוץ בפרמקומטריקס, מידול וסימולציה.
 draft: false
 subtitle: ""
-title: Contact Us
+title: צרו קשר
 ---
 
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### למה כדאי ליצור איתנו קשר?
+צוות המומחים שלנו בפרמקוקינטיקה ופרמקומטריקס יסייע לכם להגדיר את הצרכים הספציפיים שלכם וילווה אתכם בכל שלב בתהליך פיתוח התרופה, כדי להפוך אותו להצלחה.
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **טלפון: +972-54-888-6327**
+* **דוא"ל: info@quantmetrics.org**
+* **כתובת: תל אביב - יפו, ישראל**
